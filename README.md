@@ -4,13 +4,13 @@ Coin Observer è una dashboard che permette di tenersi aggiornati sull'andamento
 
 ## Per iniziare
 
-Scaricare il progetto in formato .zip facendo clic su Code, Download ZIP. Una volta finito il downlaod spacchettarlo e accedere alla root.
+Scaricare il progetto in formato .zip facendo clic su Code, Download ZIP. Una volta finito il downlaod spacchettarlo e accedere alla root directory.
 
 ![Scaricare il pacchetto .zip](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/b/3044/files/2021/05/github.png)
 
 ## Installazione ed avvio
 
-Attraverso il proprio terminale, utilizzare la libreria [npm](https://www.npmjs.com/) per l'installazione delle dependencies necessarie al funzionamento del progetto:
+Se non lo si ha già installato sulla propria macchina, andare sul sito di [Nodejs](https://nodejs.org/it/), scaricare ed installare il software. Successivamente, attraverso il proprio terminale, utilizzare la libreria [npm](https://www.npmjs.com/) per l'installazione delle dependencies necessarie al funzionamento del progetto:
 
 ```bash
 npm install
