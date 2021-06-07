@@ -1,4 +1,4 @@
-# Progetto di Informatica ed elementi di programmazione II
+# Informatica ed elementi di programmazione II [![Netlify Status](https://api.netlify.com/api/v1/badges/a3f9d6bf-5bd0-4faa-810a-9d51bf383ba8/deploy-status)](https://app.netlify.com/sites/coin-observer/deploys)
 
 Coin Observer è una dashboard che permette di tenersi aggiornati sull'andamento del mercato di criptovalute.
 
