@@ -2,12 +2,24 @@
 
 Coin Observer è una dashboard che permette di tenersi aggiornati sull'andamento del mercato di criptovalute.
 
-## Installazione
+## Per iniziare
+
+Scaricare il progetto in formato .zip facendo clic su Code, Download ZIP. Una volta finito il downlaod spacchettarlo e accedere alla root.
+
+![Scaricare il pacchetto .zip](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/b/3044/files/2021/05/github.png)
+
+## Installazione ed avvio
 
 Attraverso il proprio terminale, utilizzare la libreria [npm](https://www.npmjs.com/) per l'installazione delle dependencies necessarie al funzionamento del progetto:
 
 ```bash
 npm install
+```
+
+Dopo aver atteso qualche minuto per l'installazione delle dependencies, per avviare il progetto in localhost digitare:
+
+```bash
+npm start
 ```
 
 ## Il progetto
